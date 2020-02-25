@@ -2,7 +2,7 @@
 
 SHT20 I2C防水型温湿传感器
 
-<img src="/images/thumb/7/7b/SEN0227_PIC.jpg/300px-SEN0227_PIC.jpg" width="450" height="300" align=center>
+<img src="/arduinoC/_images/featured.png" width="450" height="300" align=center>
 
 # 用户库教程
 
