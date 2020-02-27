@@ -7,7 +7,7 @@
     "zh-cn": "I2C防水型温湿传感器",
     "en": "SHT20 I2C Waterproof temperature and humidity sensor I2C "
   },
-  "auther": "(SEN0227)",
+  "author": "(SEN0227)",
   "email": "619104402@qq.com",
   "license": "MIT",
   "isBoard": false,
