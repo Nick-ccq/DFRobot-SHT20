@@ -5,7 +5,7 @@ namespace SHT20_I2C_Water{
         Generator.addInclude("SHT20_I2C_WaterInit11", "#include <Wire.h>");
         Generator.addInclude("SHT20_I2C_WaterInit22", "#include <DFRobot_SHT20.h>");
         Generator.addObject(`SHT20_I2C_WaterDFRobot_SHT20`,  "DFRobot_SHT20",`sht20;`);
-        Generator.addSetup("SHT20_I2C_Water1","Serial.begin(9600);");
+        //Generator.addSetup("SHT20_I2C_Water1","Serial.begin(9600);");
         Generator.addSetup("SHT20_I2C_Water2","sht20.initSHT20();");
         Generator.addSetup("SHT20_I2C_Water3", "delay(100);");
         Generator.addSetup("SHT20_I2C_Water4" ,"sht20.checkSHT20();");
